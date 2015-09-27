@@ -1,0 +1,20 @@
+=====================================HELP========================================
+
+=================================Desktop version===================================
+
+User can make circuits in this version using basic gates. Just select a gate and place it in the circuit plane. To delete any gate first click the select button and then select the desired gate by clicking on it. Then click the delete button. To send input to the gates user need to use switch and to see output user need to user LED. For wiring the gates user should select wire button. If any selected gate is not connected, user will get an error message. After connecting all the selected gates user have to select the run mode. then the circuit will function. To turn ON a switch just click on it(do same as to turn OFF). To clear the window just click on the clear button. User can select stop button to stop the run mode. 
+
+To save any circuit just click the file option and select save. Then enter the file name. A file with extension ".ser" of given name will be created.
+
+To open any saved ".ser" file click the file option and select open. Then select the file to open.
+
+
+=================================Online Version=====================================
+
+In online version a client can create a circuit online and upload it in the server. 
+
+To upload a circuit to the server click on the networking button and select "upload circuit". Then select a file name. The current state of your circuit will be uploaded to the server.
+
+In online version server always displays the current state of the circuit drawn by the client.
+
+=====================================END==========================================
